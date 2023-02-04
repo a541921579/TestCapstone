@@ -1,0 +1,11 @@
+﻿  main.cpp
+e:\cpp_code\myopcodeengine\myopcodeengine\inteldef.h(103): warning C4091: “typedef ”: 没有声明变量时忽略“_IMMEDIATE___”的左侧
+e:\cpp_code\myopcodeengine\myopcodeengine\inteldef.h(474): warning C4091: “typedef ”: 没有声明变量时忽略“_OPCODETYPE”的左侧
+e:\cpp_code\myopcodeengine\myopcodeengine\inteldef.h(635): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+  inteldis.cpp
+e:\cpp_code\myopcodeengine\myopcodeengine\inteldef.h(103): warning C4091: “typedef ”: 没有声明变量时忽略“_IMMEDIATE___”的左侧
+e:\cpp_code\myopcodeengine\myopcodeengine\inteldef.h(474): warning C4091: “typedef ”: 没有声明变量时忽略“_OPCODETYPE”的左侧
+e:\cpp_code\myopcodeengine\myopcodeengine\inteldef.h(635): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+  正在生成代码...
+  MyOpcodeEngine.vcxproj -> E:\cpp_code\MyOpcodeEngine\Debug\MyOpcodeEngine.exe
+  MyOpcodeEngine.vcxproj -> E:\cpp_code\MyOpcodeEngine\Debug\MyOpcodeEngine.pdb (Full PDB)
